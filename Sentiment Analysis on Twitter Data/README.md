@@ -61,7 +61,7 @@ Classification Report:
 - You can expand the script to use other models or more data.
 
 ## Credits
-- Developed by [Your Name]
+- Developed by [AMAN JAISWAL]
 - For CodeC Technologies assignment
 
 ---
