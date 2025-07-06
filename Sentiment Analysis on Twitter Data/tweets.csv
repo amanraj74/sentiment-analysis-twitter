@@ -1,0 +1,31 @@
+tweet,sentiment
+"I love the new design of your website!",positive
+"Absolutely fantastic experience, will come again!",positive
+"Great job, I am very satisfied!",positive
+"Best purchase I've made this year!",positive
+"Customer service was helpful.",positive
+"Fast shipping and good packaging.",positive
+"Easy to use and setup.",positive
+"Very user-friendly interface.",positive
+"The app exceeded my expectations!",positive
+"Superb quality and fast delivery.",positive
+"This is the worst service I have ever used.",negative
+"Terrible customer support, very disappointed.",negative
+"I hate waiting so long for my order.",negative
+"Not happy with the delivery time.",negative
+"Will not recommend to my friends.",negative
+"Received a damaged item.",negative
+"Not worth the price.",negative
+"The product broke after one use.",negative
+"Extremely dissatisfied with the experience.",negative
+"The instructions were confusing and unhelpful.",negative
+"I am not sure how I feel about this product.",neutral
+"The product is okay, nothing special.",neutral
+"It works as expected.",neutral
+"Product quality is average.",neutral
+"Met my expectations.",neutral
+"The packaging was standard.",neutral
+"Delivery was on time.",neutral
+"No issues so far.",neutral
+"It's just another product.",neutral
+"The features are as described.",neutral 

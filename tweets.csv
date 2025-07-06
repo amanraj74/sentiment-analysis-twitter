@@ -1,0 +1,11 @@
+tweet,sentiment
+"I love the new design of your website!",positive
+"This is the worst service I have ever used.",negative
+"I am not sure how I feel about this product.",neutral
+"Absolutely fantastic experience, will come again!",positive
+"Terrible customer support, very disappointed.",negative
+"The product is okay, nothing special.",neutral
+"Great job, I am very satisfied!",positive
+"I hate waiting so long for my order.",negative
+"It works as expected.",neutral
+"Best purchase I've made this year!",positive 
